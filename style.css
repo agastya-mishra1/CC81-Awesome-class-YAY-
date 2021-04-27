@@ -1,0 +1,16 @@
+#mycanvas{
+text-align: center; 
+background-color:lightcyan;
+border-color:black;
+border-width:20px;
+border-style:groove;   
+}
+#Title{
+font-size:60px;
+color: purple;    
+}
+.body_background{
+background-image:url("bg1.jpg");
+background-position: center;
+background-size: cover;    
+}
